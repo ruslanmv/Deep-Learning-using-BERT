@@ -24,13 +24,13 @@ Please click [[here](https://www.anaconda.com/products/individual#windows)] to g
 
 
 
-![img](../assets/images/posts/README/1hxRmBAEX5Larw4KMlbadkA-16303239464182.png)
+![img](/assets/images/posts/README/1hxRmBAEX5Larw4KMlbadkA-16303239464182.png)
 
 Figure 1. Official website of Anaconda. [[here](https://www.anaconda.com/products/individual#windows)] 
 
 Select the installer based on your OS. Assume that your OS is Windows 10 64-Bit.
 
-![](../assets/images/posts/README/ana1.jpg)
+![](/assets/images/posts/README/ana1.jpg)
 
 
 
@@ -46,7 +46,7 @@ Select your Operating System, Architecture, Version, and Installer Type as shown
 
 
 
-![](../assets/images/posts/README/cuda1.jpg)
+![](/assets/images/posts/README/cuda1.jpg)
 
 Figure 3. Select Installer for CUDA Toolkit 11.1. Captured from [[here](https://developer.nvidia.com/cuda-downloads)] 
 
