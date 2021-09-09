@@ -1,6 +1,6 @@
-# Deep Learning using BERT and Pytorch
+# Sentiment analysis of a Twitter dataset with BERT and Pytorch 
 
-In this blog post, we are going to build a sentiment analysis program that uses BERT by using Python with Pytorch with Anaconda.
+In this blog post, we are going to build a sentiment analysis of a Twitter dataset that uses BERT by using Python with Pytorch with Anaconda.
 
 ### What is BERT
 
@@ -59,10 +59,6 @@ If you have finished Step 1 and 2, you have successfully installed Anaconda and 
 Please open your Command Prompt by searching ‘cmd’ as shown below.
 
 By typing this line, you are creating a Conda environment called ‘bert’
-
-```
-conda create -n ailab python=3.7
-```
 
 ```
 conda create --name bert python=3.7
